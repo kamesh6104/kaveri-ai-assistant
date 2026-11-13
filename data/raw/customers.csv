@@ -1,0 +1,132 @@
+customer_id,company_name,country,city,region_id,segment,joined_on
+C001,Singapore Gourmet Foods Pte Ltd,Singapore,Singapore,R3,Wholesale,2022-11-14
+C002,New York Natural Fresh Inc.,United States,New York,R4,Retail,2021-06-19
+C003,Kandy Global Imports (Pvt) Ltd,Sri Lanka,Kandy,R5,Retail,2022-07-28
+C004,Rotterdam Heritage Living B.V.,  Netherlands ,Rotterdam,R1,Wholesale,2021-10-28
+C005,Frankfurt Spice Natural GmbH,Germany,Frankfurt,R1,Distributor,2021-05-31
+C006,Doha Textiles Craft WLL,Qatar,Doha,R2,Distributor,2022-04-29
+C007,Houston Harvest Imports Inc.,United States,Houston,R4,Distributor,2021-02-14
+C008,Penang Craft Market Sdn Bhd,Malaysia,Penang,R3,Distributor,2022-01-25
+C009,Rome Fresh Imports S.r.l.,Italy,Rome,R1,Wholesale,2021-03-28
+C010,Mumbai Global Living Pvt Ltd,India,Mumbai,R5,Wholesale,2021-07-24
+C011,New York Fresh Bazaar Inc.,United States,New York,R4,Wholesale,2021-04-05
+C012,Lyon Pantry Organics SARL, France ,Lyon,R1,Retail,2022-02-26
+C013,Rotterdam Craft Trade B.V.,Netherlands,Rotterdam,R1,Wholesale,2021-03-09
+C014,Munich Global Home GmbH,Germany,Munich,R1,Wholesale,2022-08-20
+C015,Mumbai Textiles Home Pvt Ltd,India,Mumbai,R5,Wholesale,2022-12-01
+C016,Colombo Organics Imports (Pvt) Ltd,Sri Lanka,Colombo,R5,Distributor,2021-03-11
+C017,Perth Fresh Living Pty Ltd,Australia,Perth,R3,Wholesale,2022-08-02
+C018,Kuala Lumpur Global Pantry Sdn Bhd,Malaysia,Kuala Lumpur,R3,Wholesale,2022-09-30
+C019,Singapore Global Trade Pte Ltd,Singapore,Singapore,R3,Retail,2022-10-27
+C020,Leicester Global Gourmet Ltd,United Kingdom,Leicester,R1,Wholesale,2021-08-14
+C021,Penang Foods Market Sdn Bhd,Malaysia,Penang,R3,Distributor,2022-07-06
+C022,Sharjah Craft Natural LLC,United Arab Emirates,Sharjah,R2,Distributor,2021-11-07
+C023,Cologne Gourmet Textiles GmbH,Germany,Cologne,R1,Retail,2022-11-12
+C024,New York Fresh Market Inc.,United States,New York,R4,Wholesale,2021-03-20
+C025,Riyadh Home Trade Trading Co.,Saudi Arabia,Riyadh,R2,Wholesale,2021-02-21
+C026,Toronto Living Craft Ltd.,Canada,Toronto,R4,Retail,2021-01-30
+C027,Toronto Imports Bazaar Ltd.,Canada,Toronto,R4,Wholesale,2021-06-07
+C028,Berlin Home Living GmbH,Germany,Berlin,R1,Retail,2021-06-06
+C029,London Fresh Pantry Ltd,United Kingdom,London,R1,Wholesale,2021-10-13
+C030,Bengaluru Trade Bazaar Pvt Ltd,  India ,Bengaluru,R5,Retail,2021-05-07
+C031,Singapore Spice Textiles Pte Ltd,Singapore,Singapore,R3,Retail,2022-04-13
+C032,Osaka Living Global K.K.,  Japan  ,Osaka,R3,Retail,2022-04-04
+C033,Singapore Textiles Bazaar Pte Ltd,Singapore,Singapore,R3,Wholesale,2021-07-29
+C034,Singapore Craft Foods Pte Ltd,Singapore,Singapore,R3,Distributor,2021-09-05
+C035,Perth Textiles Fresh Pty Ltd,Australia,Perth,R3,Retail,2021-07-19
+C036,San Jose Harvest Bazaar Inc.,United States ,San Jose,R4,Wholesale,2022-10-30
+C037,Kuala Lumpur Imports Gourmet Sdn Bhd,Malaysia,Kuala Lumpur,R3,Wholesale,2022-11-07
+C038,Osaka Harvest Market K.K.,  Japan  ,Osaka,R3,Wholesale,2022-03-27
+C039,Vancouver Living Heritage Ltd.,Canada,Vancouver,R4,Retail,2021-03-30
+C040,Manchester Imports Fresh Ltd,United Kingdom,Manchester,R1,Wholesale,2022-10-08
+C041,Toronto Pantry Heritage Ltd.,Canada,Toronto,R4,Wholesale,2022-07-23
+C042,Mumbai Foods Trade Pvt Ltd,India,Mumbai,R5,Wholesale,2021-09-24
+C043,Frankfurt Heritage Craft GmbH,Germany,Frankfurt,R1,Retail,2021-11-17
+C044,Kuala Lumpur Pantry Heritage Sdn Bhd,Malaysia,Kuala Lumpur,R3,Wholesale,2021-07-02
+C045,Osaka Home Gourmet K.K.,Japan,Osaka,R3,Distributor,2022-02-22
+C046,Singapore Harvest Living Pte Ltd,  Singapore ,Singapore,R3,Wholesale,2022-08-25
+C047,Munich Imports Market GmbH,Germany,Munich,R1,Retail,2022-11-14
+C048,Singapore Global Imports Pte Ltd,Singapore,Singapore,R3,Wholesale,2021-09-26
+C049,Abu Dhabi Bazaar Living LLC,United Arab Emirates,Abu Dhabi,R2,Wholesale,2021-10-08
+C050,Paris Trade Foods SARL,France,Paris,R1,Retail,2021-06-25
+C051,Cologne Fresh Living GmbH,Germany,Cologne,R1,Retail,2021-10-09
+C052,Rotterdam Spice Craft B.V.,Netherlands,Rotterdam,R1,Wholesale,2021-12-21
+C053,Rio de Janeiro Textiles Home Ltda,Brazil,Rio de Janeiro,R4,Retail,2021-04-23
+C054,Mumbai Harvest Gourmet Pvt Ltd,India,Mumbai,R5,Wholesale,2021-06-27
+C055,Hamburg Heritage Natural GmbH,Germany,Hamburg,R1,Wholesale,2021-10-10
+C056,Mumbai Harvest Market Pvt Ltd,India ,Mumbai,R5,Retail,2021-11-27
+C057,London Pantry Bazaar Ltd,United Kingdom,London,R1,Wholesale,2021-02-16
+C058,Munich Living Pantry GmbH,Germany,Munich,R1,Wholesale,2022-10-17
+C059,Cologne Bazaar Spice GmbH,Germany,Cologne,R1,Distributor,2021-01-13
+C060,Cologne Fresh Textiles GmbH,Germany,Cologne,R1,Wholesale,2022-05-01
+C061,Hamburg Textiles Natural GmbH, Germany  ,Hamburg,R1,Retail,2021-07-13
+C062,San Jose Imports Home Inc.,United States,San Jose,R4,Distributor,2021-02-24
+C063,Sharjah Craft Global LLC,United Arab Emirates,Sharjah,R2,Wholesale,2022-03-28
+C064,Singapore Spice Gourmet Pte Ltd,Singapore,Singapore,R3,Retail,2021-02-27
+C065,Riyadh Trade Organics Trading Co.,Saudi Arabia,Riyadh,R2,Retail,2022-10-13
+C066,Sharjah Harvest Living LLC,United Arab Emirates,Sharjah,R2,Wholesale,2022-10-12
+C067,Sao Paulo Spice Gourmet Ltda,Brazil,Sao Paulo,R4,Distributor,2021-09-07
+C068,Lyon Heritage Imports SARL,France,Lyon,R1,Wholesale,2022-06-10
+C069,Munich Harvest Pantry GmbH,  Germany ,Munich,R1,Retail,2021-02-13
+C070,Melbourne Home Living Pty Ltd,Australia,Melbourne,R3,Wholesale,2022-06-05
+C071,Chennai Harvest Trade Pvt Ltd, India  ,Chennai,R5,Wholesale,2021-07-17
+C072,Jeddah Heritage Market Trading Co.,Saudi Arabia,Jeddah,R2,Retail,2022-06-04
+C073,Doha Spice Market WLL,Qatar,Doha,R2,Wholesale,2022-04-21
+C074,Singapore Market Global Pte Ltd,Singapore,Singapore,R3,Wholesale,2021-01-16
+C075,Rome Global Market S.r.l.,  Italy  ,Rome,R1,Wholesale,2022-08-25
+C076,Tokyo Textiles Fresh K.K.,Japan,Tokyo,R3,Wholesale,2021-06-02
+C077,Chittagong Textiles Pantry Ltd,Bangladesh,Chittagong,R5,Retail,2021-02-12
+C075,Rome Global Market S.r.l.,  Italy  ,Rome,R1,Wholesale,2022-08-25
+C078,Abu Dhabi Trade Textiles LLC,United Arab Emirates,Abu Dhabi,R2,Wholesale,2022-10-30
+C079,Kuala Lumpur Harvest Bazaar Sdn Bhd,Malaysia,Kuala Lumpur,R3,Wholesale,2022-04-03
+C080,Manchester Heritage Spice Ltd,United Kingdom,Manchester,R1,Wholesale,2022-01-25
+C081,New York Gourmet Living Inc.,United States,New York,R4,Wholesale,2022-04-27
+C082,Berlin Pantry Home GmbH,Germany,Berlin,R1,Wholesale,2022-03-24
+C083,Munich Harvest Market GmbH,Germany,Munich,R1,Retail,2021-05-17
+C084,Colombo Home Craft (Pvt) Ltd,Sri Lanka,Colombo,R5,Wholesale,2022-06-10
+C085,Munich Global Pantry GmbH,Germany,Munich,R1,Retail,2022-07-13
+C086,Munich Natural Harvest GmbH,Germany,Munich,R1,Distributor,2021-09-14
+C087,Chennai Trade Foods Pvt Ltd,India,Chennai,R5,Wholesale,2021-11-05
+C088,Berlin Global Gourmet GmbH,Germany,Berlin,R1,Retail,2022-10-12
+C089,Leicester Bazaar Gourmet Ltd,United Kingdom,Leicester,R1,Wholesale,2021-06-03
+C090,Jeddah Global Bazaar Trading Co.,Saudi Arabia,Jeddah,R2,Retail,2021-06-12
+C091,Singapore Living Spice Pte Ltd,Singapore,Singapore,R3,Wholesale,2022-09-04
+C088,Berlin Global Gourmet GmbH,Germany,Berlin,R1,Retail,2022-10-12
+C092,Osaka Living Craft K.K., Japan ,Osaka,R3,Wholesale,2021-12-07
+C093,Munich Fresh Market GmbH,Germany,Munich,R1,Distributor,2021-09-12
+C094,Singapore Organics Fresh Pte Ltd, Singapore  ,Singapore,R3,Retail,2021-04-13
+C095,Sao Paulo Bazaar Pantry Ltda,Brazil,Sao Paulo,R4,Wholesale,2022-04-17
+C096,Bengaluru Gourmet Living Pvt Ltd,India,Bengaluru,R5,Wholesale,2022-08-29
+C097,Doha Home Fresh WLL,Qatar,Doha,R2,Wholesale,2021-04-07
+C098,Kuala Lumpur Fresh Imports Sdn Bhd, Malaysia  ,Kuala Lumpur,R3,Wholesale,2022-03-24
+C099,Berlin Heritage Trade GmbH,Germany,Berlin,R1,Retail,2022-04-13
+C100,Delhi Living Home Pvt Ltd,India,Delhi,R5,Wholesale,2022-03-14
+C099,Berlin Heritage Trade GmbH,Germany,Berlin,R1,Retail,2022-04-13
+C101,Mumbai Textiles Bazaar Pvt Ltd,India,Mumbai,R5,Distributor,2021-12-17
+C102,Munich Textiles Organics GmbH,Germany,Munich,R1,Wholesale,2021-01-14
+C103,Doha Fresh Heritage WLL,Qatar,Doha,R2,Distributor,2021-04-20
+C104,Rotterdam Craft Textiles B.V.,Netherlands,Rotterdam,R1,Distributor,2021-06-07
+C105,Frankfurt Harvest Heritage GmbH,Germany,Frankfurt,R1,Wholesale,2021-09-12
+C106,San Jose Living Craft Inc.,United States,San Jose,R4,Wholesale,2021-05-08
+C107,Jeddah Trade Global Trading Co., Saudi Arabia ,Jeddah,R2,Wholesale,2021-10-23
+C108,Tokyo Gourmet Pantry K.K.,Japan,Tokyo,R3,Distributor,2022-01-06
+C109,Kuala Lumpur Textiles Global Sdn Bhd,Malaysia  ,Kuala Lumpur,R3,Retail,2022-09-05
+C110,Abu Dhabi Global Bazaar LLC,United Arab Emirates,Abu Dhabi,R2,Wholesale,2021-11-23
+C111,Cologne Foods Heritage GmbH,Germany,Cologne,R1,Wholesale,2021-06-29
+C112,Chicago Organics Global Inc.,  United States  ,Chicago,R4,Retail,2021-05-28
+C113,Milan Craft Bazaar S.r.l.,Italy,Milan,R1,Retail,2021-12-26
+C114,Berlin Market Bazaar GmbH, Germany  ,Berlin,R1,Distributor,2022-11-11
+C115,Singapore Gourmet Bazaar Pte Ltd,Singapore,Singapore,R3,Wholesale,2021-07-05
+C116,Vancouver Global Market Ltd.,Canada,Vancouver,R4,Wholesale,2021-04-24
+C117,Chittagong Gourmet Living Ltd,Bangladesh,Chittagong,R5,Wholesale,2022-03-09
+C118,Melbourne Textiles Craft Pty Ltd,Australia,Melbourne,R3,Wholesale,2021-08-29
+C119,Cologne Spice Fresh GmbH,Germany,Cologne,R1,Wholesale,2021-10-25
+C120,Manchester Trade Foods Ltd,United Kingdom,Manchester,R1,Wholesale,2021-01-13
+C121,Kuala Lumpur Harvest Gourmet Sdn Bhd,Malaysia,Kuala Lumpur,R3,Distributor,2021-06-16
+C122,Dhaka Foods Bazaar Ltd,Bangladesh,Dhaka,R5,Wholesale,2021-04-30
+C123,Riyadh Imports Natural Trading Co.,Saudi Arabia,Riyadh,R2,Wholesale,2021-06-10
+C124,Cologne Pantry Home GmbH,Germany,Cologne,R1,Distributor,2022-01-19
+C125,Mumbai Organics Home Pvt Ltd,India,Mumbai,R5,Wholesale,2022-07-02
+C126,Tokyo Heritage Global K.K.,Japan,Tokyo,R3,Retail,2022-10-29
+C127,Chennai Foods Craft Pvt Ltd,India,Chennai,R5,Retail,2021-08-02
+C128,Paris Textiles Home SARL,France,Paris,R1,Retail,2021-08-17

@@ -1,0 +1,37 @@
+product_id,product_name,category,list_price
+P01,Banana Fibre Basket,Coir & Natural,7.47
+P02,Coir Doormat,Coir & Natural,5.85
+P03,Coir Pith Block,Coir & Natural,2.37
+P04,Jute Shopping Bag,Coir & Natural,2.55
+P05,Alphonso Mango Pulp,Food,2.83
+P06,Basmati Rice,Food,2.17
+P07,Cashew W320,Food,11.00
+P08,Jaggery Powder,Food,1.82
+P09,Moringa Powder,Food,8.02
+P10,Virgin Coconut Oil,Food,6.88
+P11,Bell Metal Lamp,Handicrafts,32.43
+P12,Brass Diya,Handicrafts,9.07
+P13,Tanjore Painting,Handicrafts,66.83
+P14,Terracotta Vase,Handicrafts,13.07
+P15,Wooden Elephant,Handicrafts,18.66
+P16,Leather Belt,Leather,11.02
+P17,Leather Handbag,Leather,46.22
+P18,Leather Wallet,Leather,13.04
+P19,Cinnamon Sticks,Spices,11.37
+P20,Cloves,Spices,13.38
+P21,Coriander Seeds,Spices,3.51
+P22,Guntur Red Chilli,Spices,5.11
+P23,Mustard Seeds,Spices,2.40
+P24,Star Anise,Spices,12.99
+P25,Turmeric Fingers,Spices,4.78
+P26,Arabica Coffee Beans,Tea & Coffee,20.12
+P27,Filter Coffee Powder,Tea & Coffee,12.16
+P28,Green Tea,Tea & Coffee,13.41
+P29,Nilgiri Black Tea,Tea & Coffee,12.02
+P30,Robusta Coffee Beans,Tea & Coffee,10.32
+P31,Cotton Bedsheet,Textiles,12.11
+P32,Cotton Towel,Textiles,6.78
+P33,Kalamkari Cushion Cover,Textiles,9.15
+P34,Linen Table Runner,Textiles,13.21
+P35,Organic Cotton T-Shirt,Textiles,9.24
+P36,Silk Scarf,Textiles,25.49
